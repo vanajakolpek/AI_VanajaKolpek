@@ -1,0 +1,13 @@
+1. Student sends query
+2. Backend API receives query
+3. Knowledge Graph DB retrieves structured data
+4. AI Content Generator creates script & draft slides
+5. Personalization Engine adjusts learning level
+6. Formatter formats into clean slides + script
+7. Manim Automation Engine animates
+8. Video stored in Cloud & returned to student
+
+Extensions:
+- Citation Engine verifies references
+- Profile DB keeps learning history
+- Interactive Mode allows hands-on learning
