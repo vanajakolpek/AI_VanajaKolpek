@@ -145,13 +145,7 @@ function render(slides):
 * **Teacher Dashboard:** Batch-generate entire syllabus.
 
 ---
-## 9. Repository Structure
-repo/
-│ README.md (this doc)
-│ diagrams/ (Mermaid or exported PNGs)
-│ pseudocode/ (modular pseudo implementations)
----
 
-## 10. Conclusion
+## 9. Conclusion
 
 This design balances **automation, personalization, and scalability** to deliver AI-powered animated educational content. The inclusion of citations, troubleshooting, and interactive features ensures quality, trust, and engagement.
