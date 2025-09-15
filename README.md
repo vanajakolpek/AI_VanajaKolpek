@@ -1,6 +1,6 @@
 # AI-Powered Knowledge Graph → Manim Automation
 
-✨ # What It Does
+✨ What It Does
 
 Transforms textbook concepts into animated educational videos.
 Students just query a topic → system retrieves knowledge → AI generates slides + script → Manim renders animations.
