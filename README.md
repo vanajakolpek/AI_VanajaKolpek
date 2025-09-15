@@ -1,4 +1,4 @@
-# AIQ Space Ventures – Technical Round Submission
+# AI-Powered Knowledge Graph → Manim Automation
 
 ## Problem Statement
 
