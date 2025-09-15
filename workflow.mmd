@@ -1,0 +1,20 @@
+flowchart LR
+U[Student Query] --> API[Backend API]
+API --> KG[Knowledge Graph DB]
+KG --> AI[AI Content Generator]
+AI --> PF[Personalization Engine]
+PF --> SS[Slide & Script Formatter]
+SS --> M[Manim Automation Engine]
+M --> V[Video Storage/Cloud]
+V --> API
+API --> U
+
+subgraph Extensions
+P[Profile DB]
+C[Citation Engine]
+I[Interactive Mode Engine]
+end
+
+AI --> C
+PF --> P
+M --> I
