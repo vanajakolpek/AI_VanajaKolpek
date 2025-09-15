@@ -145,6 +145,12 @@ function render(slides):
 * **Teacher Dashboard:** Batch-generate entire syllabus.
 
 ---
+## 9. Repository Structure
+repo/
+│ README.md (this doc)
+│ diagrams/ (Mermaid or exported PNGs)
+│ pseudocode/ (modular pseudo implementations)
+---
 
 ## 10. Conclusion
 
